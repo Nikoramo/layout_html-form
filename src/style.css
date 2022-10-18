@@ -7,14 +7,13 @@
   height: 20px;
 }
 
-.form-field {
-  display: block;
-  margin-bottom: 10px;
+.choose {
+  margin-top: 1.5 px;
 }
 
+.form-field,
 .choose {
   display: block;
-  margin-top: 1.5 px;
   margin-bottom: 10px;
 }
 
